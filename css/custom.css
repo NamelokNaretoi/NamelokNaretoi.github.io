@@ -1,0 +1,17 @@
+.figure{
+    width: 400px;
+    clip-path: circle();
+}
+.footer{
+    background: #23272b;
+}
+.inner-footer{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+nav{
+    background: darkred;
+}
+h3,h2,h4{
+    color: darkred;
+}
